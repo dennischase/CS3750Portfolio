@@ -24,9 +24,8 @@ Entity Framework: The server side uses Entity Framework to auto create and maint
 Visual Studio: This is the IDE used to write the program <br>
 Git: Version control was done through Git and GitHub <br>
 
-### Cecilia Harvey's Contributions
-Added a new field on the Student's profile. This required adjustments to the student profile table to add a new column and insert the new information to the database through Entity Framework. 
-This also required adjustments to the Student Profile views visible from the roles of Student, Judge, and Admin. <br>
+### Dennis Chase's Contributions
+As area was one of my weak areas, I assisted with pair programming and testing other's imlementations. I also helped find where bugs where happening and figuring out how to solve them. <br>
 
 ### Usage
 **Logging In**
