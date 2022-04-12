@@ -20,10 +20,9 @@ SignalR: Asynchronous tasks were created using SignalR, which mostly uses websoc
 Visual Studio: This was the IDE used for writing the code and testing. <br>
 Git: Version control was done through Git and GitHub <br>
 
-### Cecilia Harvey's Contributions
-I refactored code, to implement the MVC design model. <br>
-I also added the feature to reshuffle and deal a new game after finishing a game, or in the event of a draw. <br>
-I also helped troubleshoot the problems we were having with SignalR, passing objects from the Client side to the Server. <br>
+### Dennis Chase's Contributions
+I created methods to shuffle and deal the cards out to the correct piles in the game. <br>
+I tested other's work and helped identify and solve bugs. <br>
 
 ### Usage
 **Starting a game**
