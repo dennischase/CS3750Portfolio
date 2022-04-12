@@ -24,12 +24,9 @@ Access Database: For the user accounts and high scores we used an Access databas
 Visual Studio: For the IDE, I used Visual Studio <br>
 <br>
 
-### Cecilia Harvey's Contributions
-Password salting and hashing <br>
-Login with SignalR <br>
-SignalR set up and examples <br>
-Database set up (with a lot of help from teamates, especially Dennis Chase)<br>
-Git: Version control was managed through Git and GitHub <br>
+### Dennis Chase's Contributions
+My role was to get the database connect, which after much struggling, was able to get it with Cecilia's help <br>
+I also made the artwork for this game. <br>
 
 ### Usage
 **Logging In**
